@@ -51,3 +51,5 @@ def main():
     #argumentosopcionales("Monterrey")
     #argumentosopcionales("New York", "USA")
     print(elevoalcuadrado(4))
+
+#Creditos: FelipeRamirezPhD
