@@ -43,3 +43,5 @@ def main():
     print(nombre)
     print(acepta)
     print(fecha)
+
+#Creditos: FelipeRamirezPhD
