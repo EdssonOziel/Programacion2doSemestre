@@ -82,3 +82,5 @@ def main():
     fechanacimiento=askandcheck("Qué fecha naciste:","date")
     print(fechanacimiento)
     print(type(fechanacimiento))
+
+#Creditos: FelipeRamirezPhD
