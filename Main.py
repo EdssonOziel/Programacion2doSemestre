@@ -8,3 +8,5 @@
 
 from preguntaestructurada import main
 main()
+
+#Creditos: FelipeRamirezPhD
